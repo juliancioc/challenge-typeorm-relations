@@ -5,7 +5,7 @@ export default class CreateProducts1594993940275 implements MigrationInterface {
     public async up(queryRunner: QueryRunner): Promise<void> {
         await queryRunner.createTable(
             new Table({
-                name: 'produtos',
+                name: 'products',
                 columns: [
                     {
                         name: 'id',
