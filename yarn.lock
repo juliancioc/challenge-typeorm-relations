@@ -5213,10 +5213,9 @@ ts-jest@^25.5.1:
     semver "6.x"
     yargs-parser "18.x"
 
-ts-node-dev@^1.0.0-pre.44:
-  version "1.0.0-pre.44"
-  resolved "https://registry.yarnpkg.com/ts-node-dev/-/ts-node-dev-1.0.0-pre.44.tgz#2f4d666088481fb9c4e4f5bc8f15995bd8b06ecb"
-  integrity sha512-M5ZwvB6FU3jtc70i5lFth86/6Qj5XR5nMMBwVxZF4cZhpO7XcbWw6tbNiJo22Zx0KfjEj9py5DANhwLOkPPufw==
+"ts-node-dev@github:mmvsk/ts-node-dev#d7e9cfbad414bcc5fc9ddb5cf75a74496a9e4549":
+  version "1.0.0-pre.43"
+  resolved "https://codeload.github.com/mmvsk/ts-node-dev/tar.gz/d7e9cfbad414bcc5fc9ddb5cf75a74496a9e4549"
   dependencies:
     dateformat "~1.0.4-1.2.3"
     dynamic-dedupe "^0.3.0"
